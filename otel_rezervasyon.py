@@ -70,7 +70,7 @@ class VeriTabaniBaglantisi:
             print("Oda zaten boş durumda.")
 
 
-# --- Test ---
+
 veriTabani = VeriTabaniBaglantisi("rezervasyonsistemi.db", "Oda")
 veriTabani.odaEkle(1)
 veriTabani.odaEkle(2)
